@@ -47,6 +47,7 @@ a {
 }
 
 p {
+    font-family: 'David Libre', serif;
     font-size: 16px;
 }
 
@@ -161,7 +162,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.search img {
     max-height: 200px;
 }
 
@@ -197,4 +198,8 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+.font {
+    font-family: 'Oswald', sans-serif;
 }
