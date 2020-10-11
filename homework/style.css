@@ -203,3 +203,6 @@ p {
 .font {
     font-family: 'Oswald', sans-serif;
 }
+.float-right {
+    float: right;
+}
